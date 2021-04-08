@@ -1,2 +1,7 @@
 
 python/PythonAdvanced/demo/static/images/promise_img04.jpg
+*.xml
+*.iml
+python/.DS_Store
+python/.DS_Store
+.DS_Store
